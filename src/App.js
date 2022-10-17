@@ -88,7 +88,7 @@ const App = () => {
       setSquares(updateBoard);
       setPlayer(player === "❤︎" ? "✯" : "❤︎");
       setPlayerStatus(
-        player === "❤︎" ? "It's player 2's turn" : "It's player 1's turn"
+        player === "❤︎" ? "Click a square, player 2" : "Click a square, player 1"
       );
     }
   };
