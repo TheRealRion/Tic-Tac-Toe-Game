@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheRealRion/Tic-Tac-Toe-Game.git/static/css/main.9a80a2e2.css",
+    "main.js": "/TheRealRion/Tic-Tac-Toe-Game.git/static/js/main.2b6f6467.js",
+    "static/js/787.6e649de6.chunk.js": "/TheRealRion/Tic-Tac-Toe-Game.git/static/js/787.6e649de6.chunk.js",
+    "index.html": "/TheRealRion/Tic-Tac-Toe-Game.git/index.html",
+    "main.9a80a2e2.css.map": "/TheRealRion/Tic-Tac-Toe-Game.git/static/css/main.9a80a2e2.css.map",
+    "main.2b6f6467.js.map": "/TheRealRion/Tic-Tac-Toe-Game.git/static/js/main.2b6f6467.js.map",
+    "787.6e649de6.chunk.js.map": "/TheRealRion/Tic-Tac-Toe-Game.git/static/js/787.6e649de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a80a2e2.css",
+    "static/js/main.2b6f6467.js"
+  ]
+}
